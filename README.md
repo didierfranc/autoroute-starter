@@ -7,7 +7,10 @@ Starter kit to play with https://github.com/didierfranc/autoroute.js
 ```
 git clone
 npm install
-python -m SimpleHTTPServer 8000
+```
+
+```js
+npm start // or npm build
 ```
 
 🍻
